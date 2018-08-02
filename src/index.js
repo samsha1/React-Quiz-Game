@@ -26,5 +26,5 @@ const state={
 
 };
 
-ReactDOM.render(<AuthorQuiz {...state} />, document.getElementById('root'));
+ReactDOM.render(< AuthorQuiz {...state} />, document.getElementById('root'));
 registerServiceWorker();
